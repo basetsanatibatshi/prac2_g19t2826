@@ -1,17 +1,91 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Base\\Desktop\\task1\\Oware.Tests\\Oware.Tests.csproj": {}
+    "C:\\Users\\Base\\Desktop\\task1\\oware.Tests\\Oware.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Base\\Desktop\\task1\\Oware.Tests\\Oware.Tests.csproj": {
+    "C:\\Users\\Base\\Desktop\\task1\\oware.Tests\\Oware.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Base\\Desktop\\task1\\Oware.Tests\\Oware.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Base\\Desktop\\task1\\oware.Tests\\Oware.Tests.csproj",
         "projectName": "Oware.Tests",
-        "projectPath": "C:\\Users\\Base\\Desktop\\task1\\Oware.Tests\\Oware.Tests.csproj",
+        "projectPath": "C:\\Users\\Base\\Desktop\\task1\\oware.Tests\\Oware.Tests.csproj",
         "packagesPath": "C:\\Users\\Base\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Base\\Desktop\\task1\\Oware.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Base\\Desktop\\task1\\oware.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Base\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Base\\Desktop\\task1\\Oware\\Oware.csproj": {
+                "projectPath": "C:\\Users\\Base\\Desktop\\task1\\Oware\\Oware.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Base\\Desktop\\task1\\Oware\\Oware.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Base\\Desktop\\task1\\Oware\\Oware.csproj",
+        "projectName": "Oware",
+        "projectPath": "C:\\Users\\Base\\Desktop\\task1\\Oware\\Oware.csproj",
+        "packagesPath": "C:\\Users\\Base\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Base\\Desktop\\task1\\Oware\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Base\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,20 +111,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[16.5.0, )"
-            },
-            "NUnit": {
-              "target": "Package",
-              "version": "[3.12.0, )"
-            },
-            "NUnit3TestAdapter": {
-              "target": "Package",
-              "version": "[3.16.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
