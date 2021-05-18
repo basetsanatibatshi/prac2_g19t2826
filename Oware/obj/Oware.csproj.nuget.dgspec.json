@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Base\\Desktop\\task1\\Oware\\Oware.csproj": {}
+    "c:\\Users\\Base\\Desktop\\task1\\Oware\\Oware.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Base\\Desktop\\task1\\Oware\\Oware.csproj": {
+    "c:\\Users\\Base\\Desktop\\task1\\Oware\\Oware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Base\\Desktop\\task1\\Oware\\Oware.csproj",
+        "projectUniqueName": "c:\\Users\\Base\\Desktop\\task1\\Oware\\Oware.csproj",
         "projectName": "Oware",
-        "projectPath": "C:\\Users\\Base\\Desktop\\task1\\Oware\\Oware.csproj",
+        "projectPath": "c:\\Users\\Base\\Desktop\\task1\\Oware\\Oware.csproj",
         "packagesPath": "C:\\Users\\Base\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Base\\Desktop\\task1\\Oware\\obj\\",
+        "outputPath": "c:\\Users\\Base\\Desktop\\task1\\Oware\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Base\\AppData\\Roaming\\NuGet\\NuGet.Config"

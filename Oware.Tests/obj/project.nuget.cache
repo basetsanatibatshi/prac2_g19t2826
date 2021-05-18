@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KsxIia8wqBbO9eI59A1XNezEnvussqjQeA8rXO1V7/IW6P99eFYp9p7K+pmObgOinbZBg4n5jdqmeSpzIv7COg==",
+  "dgSpecHash": "4YBpMiNNEaZt70rWsRUs5pNNpjTs/icV/6t48XvjkBOCL82XStll8ba4Fl+64P/HVxHMN6McN6D42eMGDaEw+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Base\\Desktop\\task1\\oware.Tests\\Oware.Tests.csproj",
+  "projectFilePath": "c:\\Users\\Base\\Desktop\\task1\\oware.Tests\\Oware.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Base\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Base\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
